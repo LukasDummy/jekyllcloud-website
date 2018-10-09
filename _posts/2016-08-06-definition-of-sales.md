@@ -7,6 +7,12 @@ author_staff_member: james
 ---
 A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same "coin" or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.
 
+| Good Morning | Good |   |   |   |
+|--------------|------|---|---|---|
+| Hi           | Bye  |   |   |   |
+|              |      |   |   |   |
+|              |      |   |   |   |
+
 ![Cat](https://source.unsplash.com/random/1500x1146)
 
 It is implied that the selling process will proceed fairly and ethically so that the parties end up nearly equally rewarded. The stages of selling, and buying, involve getting acquainted, assessing each party’s need for the other’s item of value, and determining if the values to be exchanged are equivalent or nearly so, or, in buyer's terms, "worth the price.” Sometimes, sellers have to use their own experiences when selling products with appropriate discounts.
