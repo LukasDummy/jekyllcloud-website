@@ -11,6 +11,12 @@ Upselling is a sales technique whereby a seller induces the customer to purchase
 
 In practice, large businesses usually combine upselling and cross-selling to maximize profit. In doing so, an organization must ensure that its relationship with the client is not disrupted.
 
+| Budget           | Income       | Profit |
+|------------------|--------------|--------|
+| $100,000,00      | $100,000,000 | $1000  |
+| $100,000,459,589 | $827,283,190 | $10000 |
+| Status:          | Yeah         | Nah    |
+
 ![Fair](https://source.unsplash.com/random/1500x1146)
 
 In restaurants and other similar settings, upselling is commonplace and an accepted form of business. In other businesses (e.g. car sales), the customer’s perception of the attempted upsell can be viewed negatively and impact the desired result.
